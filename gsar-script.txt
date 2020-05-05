@@ -1,0 +1,1 @@
+gsar.exe -b -s:x2C:x00:x00:x00:x48:x00:x02:x14:x3C:x60:x80:x00 -r:x2C:x00:x00:x00:x40:x82:x02:x14:x3C:x60:x80:x00 -o %filename%
